@@ -96,8 +96,10 @@ python main.py
 ---
 
 ## 📸 Demo
+<img width="1920" height="1080" alt="Screenshot 2026-04-11 234623" src="https://github.com/user-attachments/assets/dbd880cc-3b59-4862-a103-0d7468180973" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-11 234537" src="https://github.com/user-attachments/assets/7b433c79-091c-4485-92df-9a45a354a2f0" />
 
-*(Add GIF or gameplay screenshot here)*
+
 
 ---
 
@@ -106,9 +108,9 @@ python main.py
 * Add Double DQN / Dueling DQN
 * Hyperparameter tuning for better performance
 * Save & load trained models
-* Deploy as a web-based game
 
 ---
+
 
 ## 🤝 Contributing
 
@@ -118,8 +120,8 @@ Contributions are welcome! Feel free to fork this repo and improve it.
 
 ## 📬 Connect with Me
 
-* LinkedIn: https://linkedin.com/in/your-profile
-* GitHub: https://github.com/your-username
+* LinkedIn: www.linkedin.com/in/krishna-kumar-5230b4300
+* GitHub: https://github.com/Krishnak64?tab=repositories
 
 ---
 

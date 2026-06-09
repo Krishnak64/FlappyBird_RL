@@ -60,7 +60,7 @@ The agent observes the game state and decides whether to **flap or not**, aiming
 * Performance improves with more training episodes
 * Successfully learns to avoid obstacles and survive longer
 
-*(Add your score/graph here if available)*
+
 
 ---
 
